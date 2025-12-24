@@ -1,10 +1,3 @@
-import fs
-import sys
-
-
-print("\033c\033[40;37m\ngive me a file name image .img")
-i=input().strip()
-
 
 import struct
 import sys
